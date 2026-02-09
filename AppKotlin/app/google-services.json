@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "769590286955",
+    "project_id": "stabilimentobalneare-a9a95",
+    "storage_bucket": "stabilimentobalneare-a9a95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769590286955:android:bd46f3d961013186c72f2e",
+        "android_client_info": {
+          "package_name": "com.example.esame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769590286955-jrc93ug539ee536h2co3ku72k3m75h3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytjzatPETML6hDr1ch0WZjBbhSJSQwnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769590286955-1q31fg2r9p3clah8djrdg8tcbc1nsv4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769590286955:android:d978a3dddca11649c72f2e",
+        "android_client_info": {
+          "package_name": "com.example.stabilimentobalneare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769590286955-jrc93ug539ee536h2co3ku72k3m75h3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCytjzatPETML6hDr1ch0WZjBbhSJSQwnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769590286955-1q31fg2r9p3clah8djrdg8tcbc1nsv4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

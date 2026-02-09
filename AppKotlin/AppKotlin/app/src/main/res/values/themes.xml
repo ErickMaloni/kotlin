@@ -1,0 +1,12 @@
+<!-- PERCORSO: app/src/main/res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+        Tema base dell'applicazione.
+        Ora eredita da un tema Material 3, rendendolo coerente con
+        il resto della tua app Compose.
+    -->
+    <style name="Theme.Esame" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/my_blue</item>
+
+    </style>
+</resources>
