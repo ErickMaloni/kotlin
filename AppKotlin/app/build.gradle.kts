@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.esame"
-        minSdk = 33
+        minSdk = 21
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -61,8 +61,8 @@ dependencies {
     implementation("androidx.activity:activity-compose:1.8.2")
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.7.0")
 
-    // --- COMPOSE BILL OF MATERIALS (BOM) - UNA SOLA VERSIONE RECENTE ---
-    val composeBomVersion = "2024.05.00" // BOM aggiornato
+    // --- COMPOSE BILL OF MATERIALS (BOM) ---
+    val composeBomVersion = "2024.05.00"
     implementation(platform("androidx.compose:compose-bom:$composeBomVersion"))
     androidTestImplementation(platform("androidx.compose:compose-bom:$composeBomVersion"))
 
@@ -70,7 +70,7 @@ dependencies {
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-graphics")
     implementation("androidx.compose.ui:ui-tooling-preview")
-    implementation("androidx.compose.material3:material3") // Prenderà la versione corretta dal BOM
+    implementation("androidx.compose.material3:material3") 
     implementation("androidx.compose.material:material-icons-extended")
 
     // Firebase BOM
