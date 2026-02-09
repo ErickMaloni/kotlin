@@ -1,1 +1,0 @@
-Questo progetto funziona fino al salvataggio delle prenotazioni
